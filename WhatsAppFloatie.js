@@ -10,11 +10,11 @@
 		  position:"right"
 	  },
 	  brandSetting:{
-		  brandName:"Siphotography",
+		  brandName:"Your Brand Name",
 		  brandSubTitle:"Typically replies within a day",
 		  brandImg:"https://images-pw.pixieset.com/elementfield/671973511/siphoto-SQUARE-BW_-_WeddinAdventure-2f3508d5.png",
-		  welcomeText:"Hi there!\nWelcome to Siphotography! We look forward to to capturing sharing your moments and stories of your life. \nHow can I help you?",
-		  messageText:"Hello, I have a question about {{page_link}}",
+		  welcomeText:"Hi there!\nHow can I help you?",
+		  messageText:"Hello, I would like to find out more about {{page_link}}",
 		  backgroundColor:"#212121",
 		  ctaText:"Start Chat",
 		  borderRadius:"25",
